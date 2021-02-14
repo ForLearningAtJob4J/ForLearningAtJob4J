@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on world reconstructing
 
 <!--
 **ForLearningAtJob4J/ForLearningAtJob4J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
