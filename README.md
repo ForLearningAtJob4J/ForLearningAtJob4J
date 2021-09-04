@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on the world reconstructing. It's joke. Not yet ))
+🔭 I’m currently working on the world reconstructing. It's a joke. Not yet ))
 
 Finished small project front + restful back (without Spring. Only hardcore)
 https://github.com/ForLearningAtJob4J/job4j_todo
