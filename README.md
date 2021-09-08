@@ -3,21 +3,17 @@
 
 In all projects I work with postgreSQL (just for example, it is not a restriction of the only one RDBMS i can use)
 
-
-Finished small project front + restful back with auth (without Spring. Only hardcore)
+Finished small SPA project for GTD, front + restful back with auth (without Spring. Only hardcore)
 
 https://github.com/ForLearningAtJob4J/job4j_todo
 
-
-Another project - hh like web server with auth.
+Another project - web application with auth.
 
 https://github.com/ForLearningAtJob4J/job4j_dreamjob
-
 
 CLI grabber utility with http web server. It gets vacancies from sql.ru
 
 https://github.com/ForLearningAtJob4J/job4j_grabber
-
 
 
 <!--
