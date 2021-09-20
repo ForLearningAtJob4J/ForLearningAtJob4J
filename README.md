@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on the world reconstructing. It's a joke. Not yet ))
+🔭 I’m currently working on the world reconstructing. It's a joke. Not yet )) Just looking for a job.
 
 In all projects I work with postgreSQL (just for example, it is not a restriction of the only one RDBMS i can use)
 
@@ -15,6 +15,9 @@ CLI grabber utility with http web server. It gets vacancies from sql.ru
 
 https://github.com/ForLearningAtJob4J/job4j_grabber
 
+CLI todo-like app. Just to show that I know about unit- and integrational-testing.
+
+https://github.com/ForLearningAtJob4J/job4j_tracker
 
 <!--
 **ForLearningAtJob4J/ForLearningAtJob4J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
