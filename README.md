@@ -15,7 +15,7 @@ CLI grabber utility with http web server. It gets vacancies from sql.ru
 
 https://github.com/ForLearningAtJob4J/job4j_grabber
 
-CLI todo-like app. Just to show that I know about unit- and integrational-testing.
+CLI todo-like app. Hmm, it is to show that I know about unit- and integrational-testing. (Actually you'd not better look on it - it is not a good project, but just a mess of some technologies ) Ok, i warned you )
 
 https://github.com/ForLearningAtJob4J/job4j_tracker
 
