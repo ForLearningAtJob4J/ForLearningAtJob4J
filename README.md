@@ -1,9 +1,9 @@
 ### Hi there 👋
 🔭 I’m currently working on the world reconstructing. It's a joke. Not yet )) Just looking for a job.
 
-In all projects I work with postgreSQL (just for example, it is not a restriction of the only one RDBMS i can use)
+In all projects I work with postgreSQL (just for example, it is not a restriction of the only one RDBMS i can use) and all of them with no Spring framework yet, only a little piece of JavaEE - servlets. I am studying spring at the moment, so... Here are:
 
-Small SPA project for GTD, front + restful back with auth (without Spring. Only hardcore)
+Small SPA project for GTD, front + RESTful back with auth + hibernate.
 
 https://github.com/ForLearningAtJob4J/job4j_todo
 
@@ -15,7 +15,7 @@ CLI grabber utility with http web server. It gets vacancies from sql.ru
 
 https://github.com/ForLearningAtJob4J/job4j_grabber
 
-CLI todo-like app. Hmm, it is to show that I know about unit- and integrational-testing. (Actually you'd better not look at it - it is not a good project, but just a mess of some technologies ) Ok, i warned you )
+CLI todo-like app. Hmm, it is here to show that I know about unit- and integrational-testing. (Actually you'd better not look at it - it is not a good project, but just a mess of some technologies ) Ok, i warned you )
 
 https://github.com/ForLearningAtJob4J/job4j_tracker
 
