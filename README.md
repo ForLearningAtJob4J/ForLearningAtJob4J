@@ -3,7 +3,7 @@
 
 In all projects I work with postgreSQL (just for example, it is not a restriction of the only one RDBMS i can use)
 
-Finished small SPA project for GTD, front + restful back with auth (without Spring. Only hardcore)
+Small SPA project for GTD, front + restful back with auth (without Spring. Only hardcore)
 
 https://github.com/ForLearningAtJob4J/job4j_todo
 
