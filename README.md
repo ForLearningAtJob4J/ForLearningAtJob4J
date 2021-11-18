@@ -1,7 +1,17 @@
 ### Hi there 👋
-🔭 I’m currently working on the world reconstructing. It's a joke. Not yet )) Just looking for a job.
+🔭 I’m currently looking for a job.
 
-In all projects I work with postgreSQL (just for example, it is not a restriction of the only one RDBMS i can use) and all of them with no Spring framework yet, only a little piece of JavaEE - servlets. I am studying spring at the moment, so... Here are:
+In all these projects I work with postgreSQL (just for example, it is not a restriction of the only one RDBMS i can use)
+
+Simple forum (Spring Boot, Spring Data, Hibernate, Spring Security)
+
+https://github.com/ForLearningAtJob4J/job4j_forum
+
+Simple car accidents log (Spring MVC, Spring Data, Hibernate, Spring Security)
+
+https://github.com/ForLearningAtJob4J/job4j_car_accident
+
+Here are:
 
 Small SPA project for GTD, front + RESTful back with auth + hibernate.
 
