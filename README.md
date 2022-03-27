@@ -1,5 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently looking for a job.
 
 In all these projects I work with postgreSQL (just for example, it is not a restriction of the only one RDBMS i can use)
 
